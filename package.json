@@ -1,0 +1,31 @@
+{
+  "name": "inkdrop-sync-db-on-show",
+  "version": "1.0.0",
+  "description": "synchronize notes on active inkdrop app.",
+  "keywords": [
+    "inkdrop"
+  ],
+  "homepage": "https://github.com/azu/inkdrop-sync-db-on-show",
+  "bugs": {
+    "url": "https://github.com/azu/inkdrop-sync-db-on-show/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/inkdrop-sync-db-on-show.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/inkdrop-sync-db-on-show.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
