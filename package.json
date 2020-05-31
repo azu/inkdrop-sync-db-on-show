@@ -1,6 +1,6 @@
 {
   "name": "inkdrop-sync-db-on-show",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "synchronize notes on active inkdrop app.",
   "keywords": [
     "inkdrop"
